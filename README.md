@@ -1,1 +1,1 @@
-# CS596-Online-Multiplayer-Chess
+# CS596-Online-Multiplayer-Pong
